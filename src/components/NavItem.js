@@ -12,4 +12,5 @@ const sendSection = (section) => {
     </li>
   );
 };
+
 export default NavItem;
